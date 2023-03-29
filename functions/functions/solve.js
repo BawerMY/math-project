@@ -20,10 +20,12 @@ function quattroOperazioni(input) {
         if(input[i]==='*') {
             var newV = Number(input[i-1])*Number(input[i+1])
             input.splice(i-1, 3, newV)
+            i=i-1
         }
         if(input[i]==='/') {
             var newV = Number(input[i-1])/Number(input[i+1])
             input.splice(i-1, 3, newV)
+            i=i-1
         }
     }
     for(var i=0; i < input.length; i++) {
