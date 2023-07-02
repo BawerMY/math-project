@@ -1,6 +1,5 @@
 # Calculator
-Calculation algorithm that supports the 4 operations (+ - * /) and parentheses
-https://bawermy.github.io/calculator/
+Calculation algorithm that supports the 4 operations (+ - * /) and parentheses [Run Calculator](https://bawermy.github.io/calculator/)
 
 ## Example
 Input
