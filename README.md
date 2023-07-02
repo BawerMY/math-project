@@ -10,3 +10,5 @@ Output
 ```txt
 12.5
 ```
+## Run
+Download and run the index.html file
